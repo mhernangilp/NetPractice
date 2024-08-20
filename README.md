@@ -18,7 +18,7 @@
 
 ## 💡 About the project
 
-> _The objective of this project is for you to learn the basics of networking._
+> _This project is a general practical exercise to let you discover networking._
 
 
 For more detailed information, look at the [**subject of this project**](https://github.com/mhernangilp/NetPractice/blob/main/en.subject.net-practice.pdf).
